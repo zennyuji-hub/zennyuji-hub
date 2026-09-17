@@ -1,6 +1,5 @@
-<h2> 
- Hey There!  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/> 
-</h2>
+# Hey There!  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/> 
+
 
 **I'm Carl** - I'm a fullstack developer, maker, and IT student. I work on some random projects in my free time.
 
